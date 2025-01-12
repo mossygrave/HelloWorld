@@ -1,4 +1,4 @@
-# Python Hello World project
+# Python Hello World Project
 
 ##Overview
 Print "Hello World" in the terminal 
